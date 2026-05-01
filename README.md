@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://preview.redd.it/shrug-emoji-v0-kpg6mnsywxjc1.png?width=640&crop=smart&auto=webp&s=9ddb374a551c983e9982be5f04c006ff468fd8dd" width="250"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhxam1ybXA3MGpuamxyN3djam04bDZyYzUxNWVzbGI1djFxcDF6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctlMkb5NzxMVL9D5MJ/giphy.gif" width="400"/>
-  <img src="https://indianmemetemplates.com/wp-content/uploads/i-believe-in-supremacy.jpg" width="228"/>
 </p>
 
 <br />
@@ -61,6 +60,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
