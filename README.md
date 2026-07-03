@@ -13,7 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" title=".Net"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" title="NodeJS"/>
 </p>
-<h6 align="center">Tem title para passar a mão e lembrar que símbolo é (Não sou tão incopetente assim)</h6>
 
 <br />
 
@@ -26,40 +25,41 @@
 
 <br />
 
-<h1 align="center">Álbuns favoritos</h1>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE">
-        IGOR
-      </a><br/>
-      <img src="https://images.genius.com/411140caca26ea4339fe856ba82c5ce8.1000x1000x1.png" width="200"/>
-      <img src="https://images.emojiterra.com/google/android-12l/512px/1f947.png" width="50"/>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/intl-pt/album/7ycBtnsMtyVbbwTfJwRjSP?si=Quu5AvILRc2CJ25wu9bf2g">
-        To Pimp A Butterfly
-      </a><br/>
-      <img src="https://t2.genius.com/unsafe/956x956/https%3A%2F%2Fimages.rapgenius.com%2F5c45787f8bcd449a46bc3d1b50e65cc8.640x640x1.jpg" width="200"/>
-      <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f948.png" width="50"/>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv?si=5BPdtF0WR4WD9lImP9xE7g">
-        CALL ME IF YOU GET LOST
-      </a><br/>
-      <img src="https://images.genius.com/fd45b496ec7f294d23cac247dd6bd2b8.1000x1000x1.png" width="200"/>
-      <img src="https://images.emojiterra.com/google/android-12l/512px/1f949.png" width="50"/>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/intl-pt/album/20r762YmB5HeofjMCiPMLv?si=REKLsJXZRQ-E1MsMftPnbA">
-        M.B.D.T.F.
-      </a><br/>
-      <img src="https://images.genius.com/97300f5421ff3c645217d0d1dfef2dd6.1000x1000x1.jpg" width="200"/>
-      <img src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/1f3c5.svg" width="50"/>
-    </td>
-  </tr>
-</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
